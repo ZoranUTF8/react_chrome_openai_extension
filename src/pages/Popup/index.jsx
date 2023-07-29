@@ -2,6 +2,8 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 
 import Popup from './Popup';
+import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
 import './index.css';
 
 const container = document.getElementById('app-container');
